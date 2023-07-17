@@ -102,3 +102,10 @@ Every recursive solution needs to have a base case - a condition to terminate th
 Linear Search
 Binary Search
 Recursive Binary Search
+
+(Part 19) Sorting Algorithm-----------
+
+Bubble Sort
+Insertion Sort
+Quick sort
+Merge Sort
